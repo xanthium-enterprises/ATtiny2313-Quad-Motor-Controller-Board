@@ -12,3 +12,5 @@ The board contains an 20 Pin **ATtiny2313** Microcontroller which is interfaced 
 - The Makefiles required for compiling the source are also provided in each respective folder.
 - The Programmer used is **"avrisp"**.
 - **Please change the  COM port number** in the MakeFile before compiling. 
+
+###<a href ="http://www.xanthium.in/buy-atmel-avr-attiny2313-quad-motor-control-development-board-serial-rs485-interface">More details can be found here</a>. 
