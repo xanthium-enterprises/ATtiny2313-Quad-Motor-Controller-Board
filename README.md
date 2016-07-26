@@ -18,6 +18,6 @@ The board contains an 20 Pin **ATtiny2313** Microcontroller which is interfaced 
 ##Repository Contents 
 -------------------------------------------------------------------------------------------------------------------------------------
 - C source code for **Interfacing ATtiny with L293D** for controlling DC brushed Motors can be found in the following Directories.
-- The corresponding <a href ="http://www.xanthium.in/controlling-4-motors-bidirectionally-using-l293d-atmel-avr-attiny2313a-microcontroller-tutorial">Tutorial for controlling motors can be found online here</a> 
+ The corresponding <a href ="http://www.xanthium.in/controlling-4-motors-bidirectionally-using-l293d-atmel-avr-attiny2313a-microcontroller-tutorial">Tutorial for controlling motors can be found online here</a> 
   - Motor Control
   - Motor Control Advanced
