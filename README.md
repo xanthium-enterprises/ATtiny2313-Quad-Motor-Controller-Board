@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# ATtiny-RS485-controlled-6-Channel-Relay
------------------------------------------------------------------------------------------------------------------------------------------
-=======
+
 # ATtiny2313 Development Board with Quad Motor Control and Serial/RS485 Interface 
 ---------------------------------------------------------------------------------------------------------------------------------
 <a href ="http://www.xanthium.in/buy-atmel-avr-attiny2313-quad-motor-control-development-board-serial-rs485-interface">ATtiny2313 Quad Motor Controller Development Board</a> is an easy to use ATtiny2313 development board with built in Motor controller and RS485 communication features.It is aimed mainly at robotics enthusiasts who wants to build their own robot.This repo contains Circuit Diagram,Sourcecodes and other documentation related to ATtiny2313 Quad Motor Controller Board
