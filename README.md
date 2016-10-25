@@ -24,4 +24,4 @@ The board contains an 20 Pin **ATtiny2313** Microcontroller which is interfaced 
   - Motor Control Advanced
   - The corresponding <a href ="http://www.xanthium.in/controlling-4-motors-bidirectionally-using-l293d-atmel-avr-attiny2313a-microcontroller-tutorial">**Tutorial for controlling motors can be found online here**</a> 
   - <img src ="http://xanthium.in/sites/default/files/site-images/attiny2313-motor-control/atmel-avr-attiny2313-interfaced-l293d-motor.jpg"/>
->>>>>>> 7949095f1c0cd721a21534b58080d4c61c7ac3b9
+
