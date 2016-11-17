@@ -1,7 +1,11 @@
 
 # ATtiny2313 Development Board with Quad Motor Control and Serial/RS485 Interface 
 ---------------------------------------------------------------------------------------------------------------------------------
-<a href ="http://www.xanthium.in/buy-atmel-avr-attiny2313-quad-motor-control-development-board-serial-rs485-interface">ATtiny2313 Quad Motor Controller Development Board</a> is an easy to use ATtiny2313 development board with built in Motor controller and RS485 communication features.It is aimed mainly at robotics enthusiasts who wants to build their own robot.This repo contains Circuit Diagram,Sourcecodes and other documentation related to ATtiny2313 Quad Motor Controller Board
+<a href ="http://www.xanthium.in/buy-atmel-avr-attiny2313-quad-motor-control-development-board-serial-rs485-interface">ATtiny2313 Quad Motor Controller Development Board</a> is an easy to use ATtiny2313 development board with built in Motor controller and RS485 communication features.It is aimed mainly at robotics enthusiasts who wants to build their own robot.This repo contains Circuit Diagram,Sourcecodes and other documentation related to ATtiny2313 Quad Motor Controller Board.
+
+ - <a href ="http://www.ebay.in/sch/xanthium.enterprises/m.html?rt=nc&_dmd=2">**Store**</a>
+ - <a href ="http://www.xanthium.in/buy-atmel-avr-attiny2313-quad-motor-control-development-board-serial-rs485-interface">**Website**</a>
+ - <a href ="http://xanthium.in/usermanual-attiny85-attiny2313-development-board-motor-control-serial-rs485-ports">**User Manual**</a>
 
 <img src = "http://www.xanthium.in/sites/default/files/site-images/attiny2313-motor-control-board/attiny2313-quad-motor-control-development-board-640px.jpg"/>
 
@@ -14,7 +18,7 @@ The board contains an 20 Pin **ATtiny2313** Microcontroller which is interfaced 
 - The Programmer used is **"avrisp"**.
 - **Please change the  COM port number** in the MakeFile before compiling. 
 
-###<a href ="http://www.xanthium.in/buy-atmel-avr-attiny2313-quad-motor-control-development-board-serial-rs485-interface">More details can be found here</a>. 
+
 
 ##Repository Contents 
 -------------------------------------------------------------------------------------------------------------------------------------
