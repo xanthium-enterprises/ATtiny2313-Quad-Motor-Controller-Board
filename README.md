@@ -1,3 +1,5 @@
+<img src="http://www.xanthium.in/sites/default/files/site-images/ebay-store/xanthium-banner.png" />
+
 
 # ATtiny2313 Development Board with Quad Motor Control and Serial/RS485 Interface 
 ---------------------------------------------------------------------------------------------------------------------------------
@@ -11,7 +13,7 @@
 
 The board contains an 20 Pin **ATtiny2313** Microcontroller which is interfaced to two L293D Motor controller Chips and a MAX485 chip.The motors on the Board can be controlled either through **Serial** or **RS485** interface 
 
-##Source Codes 
+## Source Codes 
 -------------------------------------------------------------------------------------------------------------------------------------
 - All the codes are written in **embedded C** and compiled using **AVR GCC** (WinAVR).
 - The Makefiles required for compiling the source are also provided in each respective folder.
@@ -20,7 +22,7 @@ The board contains an 20 Pin **ATtiny2313** Microcontroller which is interfaced 
 
 
 
-##Repository Contents 
+## Repository Contents 
 -------------------------------------------------------------------------------------------------------------------------------------
 - C source code for **Interfacing ATtiny with L293D** for controlling DC brushed Motors can be found in the following Directories.
  
